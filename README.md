@@ -9,6 +9,11 @@ This project is an application skeleton for a typical AngularJS web app. You can
 
 https://github.com/angular/angular-seed
 
+A bunch of links to blog posts, articles, videos, etc for learning AngularJS
+============================================================================
+
+https://github.com/jmcunningham/AngularJS-Learning
+
 
 Authentication and login
 ========================
