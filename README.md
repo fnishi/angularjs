@@ -21,3 +21,11 @@ Authentication and login
 here are some ideas:
 
 http://www.sitepoint.com/implementing-authentication-angular-applications/
+
+
+Java EE, JSF and Angular
+========================
+
+Just a Spoonful of Java EE Makes the AngularJS Localization Problem Go Away
+
+https://weblogs.java.net/blog/edburns/archive/2014/02/25/just-spoonful-java-ee-makes-angularjs-localization-problem-go-away
