@@ -31,3 +31,9 @@ http://www.radcortez.com/java-ee-7-with-angular-js-part-1/
 http://www.radcortez.com/java-ee-7-with-angular-js-crud-rest-validations-part-2/
 
 https://weblogs.java.net/blog/edburns/archive/2014/02/25/just-spoonful-java-ee-makes-angularjs-localization-problem-go-away
+
+
+Eclipse plugin
+==============
+
+http://marketplace.eclipse.org/content/angularjs-eclipse
